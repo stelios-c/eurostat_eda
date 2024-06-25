@@ -1,2 +1,2 @@
 # eurostat_eda
-Exploration of pystat data
+Exploration of eurostat data
